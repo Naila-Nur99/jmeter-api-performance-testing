@@ -1,12 +1,11 @@
-# JMeter API Testing & Performance Evaluation
+# JMeter API & Performance Testing 
 ## Description
-This repository includes JMeter test plans for two API scenarios. The Booking API (booking.jmx) is designed for performance testing, including load and stress tests, to evaluate system stability. The Dmoney API (dmoney.jmx) focuses on functional testing of financial transactions, ensuring seamless deposits, money transfers, and payments.
-## Technology I used
- - Apache JMeter
- - Postman
+This repository hosts JMeter test plans for two different API scenarios. The **Booking API (booking.jmx)** is intended for performance testing, including load and stress testing, to analyze the system's reliability and capacity. The **Dmoney API (dmoney.jmx)** is designed for functional testing, ensuring the proper execution of financial operations like deposits, transfers, and payments.
+
 ## Prerequisites
- - Apache JMeter installed
- - Java (JDK 17) installed
+- **Apache JMeter** for performance and functional testing
+- **Java (JDK 17)** for running JMeter and tests
+   
 ## How to run this project
 - ### Clone the Repository
      - ```git clone https://github.com/Naila-Nur99/jmeter-api-performance-testing.git ```
@@ -15,15 +14,16 @@ This repository includes JMeter test plans for two API scenarios. The Booking AP
 - ### Running the Booking API Test (Performance Test)
    - #### Steps
       - Open booking.jmx in JMeter.
-      - Run the test for 5 minutes, then 10 minutes, then 20 minutes.
-      - Check the HTML report for results.
-      - If the load test passes, gradually increase the users to find the bottleneck (stress test).
+      - Run tests for 5, 10, and 20 minutes.
+      - Review the HTML report for the results.
+      - If the load test is successful, gradually increase the number of users to identify the bottleneck (stress test).
       - Generate an HTML report and save results in booking-api-test-report.xlsx.
         
 - ### Running the Dmoney API Test (Functional Test)
    - #### Steps
       - Open dmoney.jmx in JMeter.
-      - Ensure the deposit.csv, sendMoney.csv, and payment.csv files are present.
+      - Make sure the deposit.csv, sendMoney.csv, and payment.csv files are available.
+      - Check authentication tokens and account setups.
       - Run the test to validate financial transactions.
 ## Results & Reports
 ### Booking API HTML
