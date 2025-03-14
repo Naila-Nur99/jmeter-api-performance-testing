@@ -1,6 +1,6 @@
 # JMeter API & Performance Testing 
 ## Description
-This repository hosts JMeter test plans for two different API scenarios. The **Booking API (booking.jmx)** is intended for performance testing, including load and stress testing, to analyze the system's reliability and capacity. The **Dmoney API (dmoney.jmx)** is designed for functional testing, ensuring the proper execution of financial operations like deposits, transfers, and payments.
+This repository hosts **JMeter** test plans for two different API scenarios. The **Booking API (booking.jmx)** is intended for performance testing, including load and stress testing, to analyze the system's reliability and capacity. The **Dmoney API (dmoney.jmx)** is designed for functional testing, ensuring the proper execution of financial operations like deposits, transfers, and payments.
 
 ## Prerequisites
 - **Apache JMeter** for performance and functional testing
@@ -26,14 +26,15 @@ This repository hosts JMeter test plans for two different API scenarios. The **B
       - Check authentication tokens and account setups.
       - Run the test to validate financial transactions.
 ## Results & Reports
-### Booking API HTML
-   - #### Load Testing
+### Booking API
+   - #### Load Testing (Report Summary & Report Statistics)
 ![Load_testing_20mint_HTML](https://github.com/user-attachments/assets/f87b5b7e-c9a0-4725-81d0-99dffeceabd8)
 
-   - #### Stress Testing
+   - #### Stress Testing (Report Summary & Report Statistics)
 ![Stress_testing_25k_(StressPoint)HTML](https://github.com/user-attachments/assets/7060ce13-6084-43d2-bea9-0460c9a34920)
 
-### Dmoney API HTML
+### Dmoney API
+   - #### Functional Testing (Report Summary & Report Statistics)
 ![html_report](https://github.com/user-attachments/assets/54555eec-3521-4565-b65d-dbd652220637)
 
 
