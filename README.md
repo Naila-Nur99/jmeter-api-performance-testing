@@ -30,8 +30,20 @@ This repository hosts **JMeter** test plans for two different API scenarios. The
    - #### Load Testing (Report Summary & Report Statistics)
 ![Load_testing_20mint_HTML](https://github.com/user-attachments/assets/f87b5b7e-c9a0-4725-81d0-99dffeceabd8)
 
+   - #### Load Test Steps
+![load_test_xl](https://github.com/user-attachments/assets/e1363259-491f-4117-b35a-12e8df14ee0a)
+
+
    - #### Stress Testing (Report Summary & Report Statistics)
 ![Stress_testing_25k_(StressPoint)HTML](https://github.com/user-attachments/assets/7060ce13-6084-43d2-bea9-0460c9a34920)
+
+   - #### Stress Test Steps
+![stress_testing_xl](https://github.com/user-attachments/assets/a8340ebc-2da7-4b57-a268-10c00043a85f)
+
+
+
+
+
 
 ### Dmoney API
    - #### Functional Testing (Report Summary & Report Statistics)
