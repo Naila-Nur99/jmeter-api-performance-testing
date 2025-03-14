@@ -29,27 +29,34 @@ This repository hosts **JMeter** test plans for two different API scenarios. The
 ### Booking API
  - ### Load Testing
 #### Report Summary & Report Statistics 
-&nbsp; 
+&nbsp;
+
 ![Load_testing](https://github.com/user-attachments/assets/241f05ef-b3f7-4de4-b7e3-dc81e0cdf904)
 
 
 #### Load Test Steps
-&nbsp; 
-![load_test_xl](https://github.com/user-attachments/assets/e1363259-491f-4117-b35a-12e8df14ee0a)
+&nbsp;
+
+![Screenshot (235)](https://github.com/user-attachments/assets/7b8c12e1-ec0b-4a35-a920-a52aaba09044)
+
 
  - ### Stress Testing
 #### Report Summary & Report Statistics 
 &nbsp; 
+
 ![Stress_testing_25k_(StressPoint)HTML](https://github.com/user-attachments/assets/7060ce13-6084-43d2-bea9-0460c9a34920)
 
 #### Stress Test Steps
-&nbsp;  
-![stress_testing_xl](https://github.com/user-attachments/assets/a8340ebc-2da7-4b57-a268-10c00043a85f)
+&nbsp;
+
+![Screenshot (234)](https://github.com/user-attachments/assets/37aec73a-6c20-4cf9-8ad8-01e76a677772)
+
 
 ### Dmoney API
  - ### Functional Testing 
 #### Report Summary & Report Statistics 
 &nbsp; 
+
 ![html_report](https://github.com/user-attachments/assets/54555eec-3521-4565-b65d-dbd652220637)
 
 
